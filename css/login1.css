@@ -1,0 +1,66 @@
+body {
+  font-family: Arial;
+  background: linear-gradient(150deg, #FFD8A9, #E38B29, #FFD8A9);
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  hr {
+    border: 1px solid #E14D2A;
+    margin-bottom: 25px;
+  }
+
+  
+h1 {
+    font-size: 40px;
+    font-family: Georgia;
+    position: relative;
+    text-align: center;
+    color: #D1512D; 
+  }
+  
+  
+h2 {
+    font-size: 18px;
+    font-family: Georgia;
+  }
+  
+  input[type=text],
+  input[type=password] {
+    width: 80%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #D7A86E;
+    font-family: Arial;
+  }
+
+p {
+    font-size: 17px;
+    font-family: Georgia;
+}
+.container {
+    width: 40%;
+    background-color: #FFE3A9;
+    padding: 80px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+    margin: auto;
+  }
+  
+  .signupbtn {
+    padding: 13px 20px;
+    margin: 7px 0;
+    border: none;
+    cursor: pointer;
+    width: 80%;
+    background-color: #AC4425;
+    border-radius: 8px;
+    color: white;
+  }
+  .signupbtn:hover {
+    background-color: #FFB562;
+    color: brown;
+  }

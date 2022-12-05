@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: linear-gradient(150deg, #FFD8A9, #E38B29,#FFD8A9);
+    
+}
+.center
+{
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family:'Georgia';
+    color:#AC4425;
+}
+p{
+    font-size: 15px;
+    font-family:'Georgia';
+    color: #AC4425;   
+}
